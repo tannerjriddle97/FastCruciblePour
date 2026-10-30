@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "fastcruciblepour",
+  "name": "Fast Crucible Pour",
+  "authors": ["obbra"],
+  "description": "Pour molten metal from crucibles 50 times faster: 100 units per interaction step instead of 2.",
+  "version": "1.0.0",
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "dependencies": { "game": "1.22.7" }
+}
